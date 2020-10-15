@@ -7,6 +7,7 @@
 - Svelte (of course!)
 - TypeScript
 - Sass/SCSS
+- i18n
 - Cypress
 - GitHub Actions
 - Asset hashing
