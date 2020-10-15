@@ -19,7 +19,7 @@ Scaffold a new project using [degit](https://github.com/Rich-Harris/degit):
 ```bash
 npx degit outloudvi/svelte-ts-sass-cypress-template svelte-app
 cd svelte-app
-npm install # or "npm instalyl", or "pnpm install"
+npm install # or "yarn install", or "pnpm install"
 ```
 
 ## Scripts
