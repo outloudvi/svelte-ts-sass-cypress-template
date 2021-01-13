@@ -22,6 +22,10 @@ cd svelte-app
 npm install # or "yarn install", or "pnpm install"
 ```
 
+Also, remember to:
+* Update the `LICENSE` file
+* Change the package name & version in `package.json`
+
 ## Scripts
 
 ### `yarn dev`
